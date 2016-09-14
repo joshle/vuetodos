@@ -1,0 +1,17 @@
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+li.completed {
+  text-decoration: line-through;
+}
+
+.margin-right-10 {
+    margin-right: 10px;
+}
